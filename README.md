@@ -1,1 +1,6 @@
-# cat-photo-app-
+<html>
+<body
+<h1>CatPhotoApp</h1>
+<h2>Cat Photos</h2>
+  <!-- TODO: Addlink to cat photos -->
+<p>Everyone loves cute cats online!</p>
