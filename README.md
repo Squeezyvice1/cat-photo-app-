@@ -1,8 +1,9 @@
 <html>
 <body
-  <main>
-<h1>CatPhotoApp</h1>
-<h2>Cat Photos</h2>
+<main>
+  <h1>CatPhotoApp</h1>
+  <h2>Cat Photos</h2>
   <!-- TODO: Addlink to cat photos -->
-<p>Everyone loves cute cats online!</p>
+  <p>Everyone loves cute cats online!</p>
+  <img>
 </main>
