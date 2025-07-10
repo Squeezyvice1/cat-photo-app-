@@ -5,5 +5,5 @@
   <h2>Cat Photos</h2>
   <!-- TODO: Addlink to cat photos -->
   <p>Everyone loves cute cats online!</p>
-  <img>
+  <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg">
 </main>
