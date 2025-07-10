@@ -5,5 +5,6 @@
   <h2>Cat Photos</h2>
   <!-- TODO: Addlink to cat photos -->
   <p>Everyone loves cute cats online!</p>
+  <a href="https://freecatphotoapp.com">cat photos</a>
   <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt=" a cute orange cat lying on its back">
 </main>
