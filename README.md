@@ -26,5 +26,8 @@
      <li>other cats</li>
     </ol>
     <figure>
+     <img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Five cats looking around a field."><figcaption>cats<strong> hate</strong> other cats.</figcaption>
+    </figure>
    </section>
 </main>
+<footer> <p>No Copyright - freeCodeCamp.org</p></footer>
