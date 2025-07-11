@@ -1,4 +1,7 @@
-<html>
+<!DOCTYPE html> 
+<html lang="en">
+ <head><title>Catphotoapp</title>
+ </head>
 <body
 <main>
  <section>
@@ -30,4 +33,4 @@
     </figure>
    </section>
 </main>
-<footer> <p>No Copyright - freeCodeCamp.org</p></footer>
+<footer> <p>No Copyright -<a href="https://www.freecodecamp.org" freeCodeCamp.org</p> </a></footer>
