@@ -1,6 +1,7 @@
 <!DOCTYPE html> 
 <html lang="en">
- <head><title>Catphotoapp</title>
+ <head><meta charset="utf-8">
+  <title>Catphotoapp</title>
  </head>
 <body
 <main>
